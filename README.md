@@ -12,3 +12,7 @@ The available options are:
 - Search by contact name in the phonebook database, with the option "-s"
 - Delete all records, with "-e"
 - Delete one contact name, with "-d"
+
+Useful Bash tutorials
+
+  [If Statements](https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php)
