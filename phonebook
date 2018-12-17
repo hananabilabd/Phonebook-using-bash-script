@@ -9,7 +9,7 @@ if [ -z $1 ];then
 	echo "-v to view all contacts"
 	echo "-s to search for phone record"
 	echo "-e to delete all phone contacts"
-	echo "-d to delete all phone contacts"
+	echo "-d to delete a phone contact"
 fi
 if [[ $1 == *"-i"* ]] ;then
 	echo "Create a new Record"
